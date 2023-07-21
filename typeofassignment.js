@@ -1,0 +1,16 @@
+var bankName;
+bankName='SBI Bank';
+console.log(bankName);
+console.log(typeof bankName);
+var marks='90%';
+console.log(marks);
+console.log(typeof marks);
+console.log("--------------------------------------");
+let isWorking =false;
+console.log(isWorking);
+console.log(typeof isWorking);
+console.log("--------------------------------------");
+var totalCount="Hundred and Seven";
+console.log(typeof totalCount);
+totalCount=107;
+console.log(typeof totalCount);
